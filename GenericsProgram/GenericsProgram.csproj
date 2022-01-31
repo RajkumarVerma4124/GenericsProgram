@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenericPrintArray.cs" />
     <Compile Include="GenericsArrPrint.cs" />
+    <Compile Include="GenericsPrintArray.cs" />
     <Compile Include="PrintArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
